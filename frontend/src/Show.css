@@ -1,0 +1,26 @@
+.title{
+    background-color: aqua;
+    font-size: 26px;
+    border-color: blueviolet;
+    border-width: 5px;
+    border-style: double;
+    text-align: center;
+    color: blueviolet;
+  }
+  h2{
+    background-color: yellowgreen;
+    font-size: 16px;
+    border-color: blueviolet;
+    border-width: 5px;
+    border-style: double;
+    text-align: center;
+    color: blueviolet;
+  }
+  ul{
+    background-color: aqua;
+    display: block;
+    font-size: 10px;
+    color: blue;
+    font-weight: bold;
+    text-align: justify;
+  }
